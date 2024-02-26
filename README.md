@@ -18,7 +18,7 @@ This is a collection of research papers for Federated Learning for Large Languag
 <a id="item-1"></a>
 ## Published Papers
 
-In this section, we will list recent FedLLM papers accepted by top tier AI/ML/Networking conferences.
+In this section, we will list recent FedLLM papers accepted by top tier AI/ML/Networking conferences and journals.
 ```
 format:
 - [title](paper link) [Venue]
@@ -32,6 +32,7 @@ format:
 
 <a id="item-12"></a>
 ### 2023
+
 - [Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization](http://arxiv.org/abs/2310.15080) [EMNLP 2023]
   - *authors*: Tianshi Che, Ji Liu, Yang Zhou, Jiaxiang Ren, Jiwen Zhou, Victor S. Sheng, Huaiyu Dai, Dejing Dou.
   - *datasets*: QNLI, SST-2, CoLA, MRPC, RTE, and BoolQ, MPQA, Subj, TREC, and MR 
@@ -49,6 +50,8 @@ format:
   - *datasets*: Synthetic
   - *models*: BLOOM-176B
   - [code](https://github.com/bigscience-workshop/petals) [video](https://www.youtube.com/watch?v=F4muLI-0hTE)
+
+
  
 <a id="item-13"></a>
 ### 2022
