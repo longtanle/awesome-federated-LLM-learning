@@ -60,6 +60,20 @@ format:
 <a id="item-21"></a>
 ### 2024
 
+- [On the Convergence of Zeroth-Order Federated Tuning for Large Language Models](https://arxiv.org/abs/2402.05926) [ArXiv 2024]
+  - *authors*: Zhenqing Ling, Daoyuan Chen, Liuyi Yao, Yaliang Li, Ying Shen.
+  - *datasets*: Databricks-dolly-15k, GSM8K, CodeAlpaca, Alpaca
+  - *models*: LLaMA-3B
+  - [code](https://github.com/alibaba/FederatedScope/tree/FedMeZO) and slide
+
+- [Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes](https://arxiv.org/abs/2312.06353) [ArXiv 2024]
+  - *authors*: Zhen Qin, Daoyuan Chen, Bingchen Qian, Bolin Ding, Yaliang Li, Shuiguang Deng.
+  - *datasets*: Natural Instructions and Dolly-15K.
+  - *models*: DataJuicer-1.3B, LLaMA-3B.
+  - [code](https://github.com/alibaba/FederatedScope/tree/FedKSeed) and slide
+    
+- 
+
 <a id="item-22"></a>
 ### 2023
 
