@@ -17,10 +17,10 @@ In this section, we will list FedLLM papers accepted by top AI/ML/Networking con
 ```
 format:
 - [title](paper link) [Venue]
-  - affiliations
-  - [code](code link) [slide](slide link) 
+  - authors
   - datasets
-  - experiment environments and 
+  - models
+  - [code](code link) [slide](slide link) 
 ```
 <a id="item-11"></a>
 ### 2024
@@ -30,8 +30,8 @@ format:
 - [Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization](http://arxiv.org/abs/2310.15080) [EMNLP 2023]
   - *authors*: Tianshi Che, Ji Liu, Yang Zhou, Jiaxiang Ren, Jiwen Zhou, Victor S. Sheng, Huaiyu Dai, Dejing Dou.
   - *datasets*: QNLI, SST-2, CoLA, MRPC, RTE, and BoolQ, MPQA, Subj, TREC, and MR 
-  - *base models*: RoBERTa, GPT2, LLaMA 7B
-    [code](https://github.com/llm-eff/FedPepTAO) [slide]() 
+  - *models*: RoBERTa, GPT2, LLaMA 7B
+  - [code](https://github.com/llm-eff/FedPepTAO) and [slide]() 
 
 
 <a id="item-13"></a>
