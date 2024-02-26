@@ -30,6 +30,12 @@ format:
 <a id="item-11"></a>
 ### 2024
 
+- [Improving LoRA in Privacy-preserving Federated Learning](https://openreview.net/forum?id=NLPzL6HWNl) [ICLR 2024]
+  - *authors*: Youbang Sun, Zitao Li, Yaliang Li, Bolin Ding .
+  - *datasets*: MNLI, SST2, QNLI , QQP and GSM-8K
+  - *models*: RoBERTa, LLaMA 7B
+  - code and slide
+    
 <a id="item-12"></a>
 ### 2023
 
