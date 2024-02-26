@@ -28,6 +28,13 @@ format:
 
 <a id="item-12"></a>
 ### 2023
+- [Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization](http://arxiv.org/abs/2310.15080) [links]
+  - affiliations
+  - publisher
+  - code
+  - datasets
+  - experiment environments and
+
 
 <a id="item-13"></a>
 ### 2022
