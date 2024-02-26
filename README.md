@@ -44,6 +44,12 @@ format:
   - *models*: RoBERTa
   - [code](https://github.com/SMILELab-FL/FedPETuning) and slide
  
+- [Petals: Collaborative Inference and Fine-tuning of Large Models](https://aclanthology.org/2023.acl-demo.54.pdf) [ACL 2023]
+  - *authors*: Alexander Borzunov, Dmitry Baranchuk, Tim Dettmers, Maksim Riabinin, Younes Belkada, Artem Chumachenko, Pavel Samygin, Colin Raffel.
+  - *datasets*: Synthetic
+  - *models*: BLOOM-176B
+  - [code](https://github.com/bigscience-workshop/petals) [video](https://www.youtube.com/watch?v=F4muLI-0hTE)
+ 
 <a id="item-13"></a>
 ### 2022
 
