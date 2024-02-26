@@ -31,7 +31,7 @@ format:
   - *authors*: Tianshi Che, Ji Liu, Yang Zhou, Jiaxiang Ren, Jiwen Zhou, Victor S. Sheng, Huaiyu Dai, Dejing Dou.
   - *datasets*: QNLI, SST-2, CoLA, MRPC, RTE, and BoolQ, MPQA, Subj, TREC, and MR 
   - *models*: RoBERTa, GPT2, LLaMA 7B
-  - [code](https://github.com/llm-eff/FedPepTAO) and [slide]() 
+  - [code](https://github.com/llm-eff/FedPepTAO) and slide
 
 
 <a id="item-13"></a>
