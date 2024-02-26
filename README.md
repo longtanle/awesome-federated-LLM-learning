@@ -86,6 +86,12 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
   - *models*: DataJuicer-1.3B, LLaMA-3B.
   - [code](https://github.com/alibaba/FederatedScope/tree/FedKSeed) and slide
 
+- [Towards Building the Federated GPT: Federated Instruction Tuning](https://arxiv.org/abs/2305.05644) [ArXiv 2024]
+  - *authors*: Jianyi Zhang, Saeed Vahidian, Martin Kuo, Chunyuan Li, Ruiyi Zhang, Tong Yu, Yufan Zhou, Guoyin Wang, Yiran Chen.
+  - *datasets*: Dolly-15K.
+  - *models*: Shepherd-7B.
+  - [code](https://github.com/JayZhang42/FederatedGPT-Shepherd) and slide
+    
 <a id="item-22"></a>
 ### 2023
 - [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363) [ArXiv 2023]
@@ -105,3 +111,6 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 
 <a id="item-3"></a>
 ## Applications
+
+- [Large Language Models Empowered Autonomous Edge AI for Connected Intelligence](https://arxiv.org/abs/2307.02779) [IEEE Communication Magazine]
+  - *authors*: Yifei Shen, Jiawei Shao, Xinjie Zhang, Zehong Lin, Hao Pan, Dongsheng Li, Jun Zhang, Khaled B. Letaief.
