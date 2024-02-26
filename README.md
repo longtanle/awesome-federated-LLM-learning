@@ -11,15 +11,14 @@ This is a collection of research papers for Federated Learning for Large Languag
 
 
 <a id="item-1"></a>
-## Research Papers
+## Foundation Research Papers
 
 In this section, we will list FedLLM papers accepted by top AI/ML/Networking conference, including NeurIPS, ICML, ICLR, INFOCOM, etc.
 ```
 format:
 - [title](paper link) [Venue]
-  - author1, author2, and author3...
-  - publisher
-  - code
+  - affiliations
+  - [code](code link) [slide](slide link) 
   - datasets
   - experiment environments and 
 ```
@@ -29,10 +28,10 @@ format:
 <a id="item-12"></a>
 ### 2023
 - [Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization](http://arxiv.org/abs/2310.15080) [EMNLP 2023]
-  - affiliations
-  - code
-  - datasets
-  - experiment environments
+  - authors: Tianshi Che, Ji Liu, Yang Zhou, Jiaxiang Ren, Jiwen Zhou, Victor S. Sheng, Huaiyu Dai, Dejing Dou.
+  - [code](https://github.com/llm-eff/FedPepTAO) [slide]() 
+  - datasets: QNLI, SST-2, CoLA, MRPC, RTE, and BoolQ, MPQA, Subj, TREC, and MR 
+  - base models: RoBERTa, GPT2, LLaMA 7B
 
 
 <a id="item-13"></a>
