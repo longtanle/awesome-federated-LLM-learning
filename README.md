@@ -60,6 +60,18 @@ format:
 <a id="item-21"></a>
 ### 2024
 
+- [Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources](https://arxiv.org/pdf/2402.11505.pdf) [ArXiv 2024]
+  - *authors*: Jiamu Bai, Daoyuan Chen, Bingchen Qian, Liuyi Yao, Yaliang Li.
+  - *datasets*:  AllenAI natural instruction dataset v2.
+  - *models*: LLaMA-1.3B 
+  - [code](https://github.com/alibaba/FederatedScope/tree/FlexLoRA) and slide
+  - 
+- [OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning](https://arxiv.org/abs/2402.06954) [ArXiv 2024]
+  - *authors*: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du, Yanfeng Wang, Siheng Chen.
+  - *datasets*: Alpaca, Alpaca-GPT4, FinGPT, MedAlpaca, CodeMathInstruct, UltraFeedback, HH-RLHF 
+  - *models*: LLaMA-7B
+  - [code](https://github.com/rui-ye/OpenFedLLM) and slide
+    
 - [On the Convergence of Zeroth-Order Federated Tuning for Large Language Models](https://arxiv.org/abs/2402.05926) [ArXiv 2024]
   - *authors*: Zhenqing Ling, Daoyuan Chen, Liuyi Yao, Yaliang Li, Ying Shen.
   - *datasets*: Databricks-dolly-15k, GSM8K, CodeAlpaca, Alpaca
@@ -71,12 +83,17 @@ format:
   - *datasets*: Natural Instructions and Dolly-15K.
   - *models*: DataJuicer-1.3B, LLaMA-3B.
   - [code](https://github.com/alibaba/FederatedScope/tree/FedKSeed) and slide
-    
-- 
 
 <a id="item-22"></a>
 ### 2023
 
+
+- [FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models](https://arxiv.org/abs/2310.10049) [ArXiv 2023]
+  - *authors*: Tao Fan, Yan Kang, Guoqiang Ma, Weijing Chen, Wenbin Wei, Lixin Fan, Qiang Yang.
+  - *datasets*: AdvertiseGen.
+  - *models*: BERT, GPTs, ChatGLM-6B, LLaMA, BLOOM, Baichuan
+  - [code](https://github.com/FederatedAI/FATE-LLM) and slide
+    
 <a id="item-23"></a>
 ### 2022
 
