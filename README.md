@@ -57,6 +57,8 @@ format:
 <a id="item-2"></a>
 ## Preprints
 
+In this section, we will list high-quality FedLLM preprints that have been uploaded to open-access repositories like ArXiv.
+
 <a id="item-21"></a>
 ### 2024
 
@@ -86,14 +88,18 @@ format:
 
 <a id="item-22"></a>
 ### 2023
-
+- [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363) [ArXiv 2023]
+  - *authors*: Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, Yuexiang Xie, Yaliang Li, Bolin Ding, Jingren Zhou.
+  - *datasets*: Databricks-dolly-15k, GSM8K.
+  - *models*:  LLaMA-7B
+  - [code](https://github.com/alibaba/FederatedScope/tree/llm) and slide
 
 - [FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models](https://arxiv.org/abs/2310.10049) [ArXiv 2023]
   - *authors*: Tao Fan, Yan Kang, Guoqiang Ma, Weijing Chen, Wenbin Wei, Lixin Fan, Qiang Yang.
   - *datasets*: AdvertiseGen.
   - *models*: BERT, GPTs, ChatGLM-6B, LLaMA, BLOOM, Baichuan
   - [code](https://github.com/FederatedAI/FATE-LLM) and slide
-    
+
 <a id="item-23"></a>
 ### 2022
 
