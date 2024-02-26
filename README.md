@@ -1,7 +1,8 @@
 # Awesome-Federated-LLM-Learning
 This is a collection of research papers for Federated Learning for Large Language Models (FedLLM). And the repository will be continuously updated to track the frontier of FedLLM.
 
-** Table of Contents **
+
+## Table of Contents
 - [Research Papers](#item-1)
   - [2024](#item-11)
   - [2023](#item-12)
