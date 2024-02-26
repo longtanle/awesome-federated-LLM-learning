@@ -16,7 +16,7 @@ This is a collection of research papers for Federated Learning for Large Languag
 In this section, we will list FedLLM papers accepted by top AI/ML/Networking conference, including NeurIPS, ICML, ICLR, INFOCOM, etc.
 ```
 format:
-- [title](paper link) [links]
+- [title](paper link) [Venue]
   - author1, author2, and author3...
   - publisher
   - code
@@ -28,12 +28,11 @@ format:
 
 <a id="item-12"></a>
 ### 2023
-- [Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization](http://arxiv.org/abs/2310.15080) [links]
+- [Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization](http://arxiv.org/abs/2310.15080) [EMNLP 2023]
   - affiliations
-  - publisher
   - code
   - datasets
-  - experiment environments and
+  - experiment environments
 
 
 <a id="item-13"></a>
