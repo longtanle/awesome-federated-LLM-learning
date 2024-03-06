@@ -71,7 +71,11 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 
 <a id="item-21"></a>
 ### 2024
-
+- [Privacy-Aware Semantic Cache for Large Language Models](https://arxiv.org/abs/2403.02694) [Arxiv 2024]
+  - *authors*: Waris Gill, Mohamed Elidrisi, Pallavi Kalapatapu, Ali Anwar, Muhammad Ali Gulzar 
+  - *datasets*: GPTCache dataset
+  - *models*:  Llama 2, MPNet, Albert 
+  
 - [Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources](https://arxiv.org/pdf/2402.11505.pdf) [ArXiv 2024]
   - *authors*: Jiamu Bai, Daoyuan Chen, Bingchen Qian, Liuyi Yao, Yaliang Li.
   - *datasets*:  AllenAI natural instruction dataset v2.
