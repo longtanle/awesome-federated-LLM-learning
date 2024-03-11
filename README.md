@@ -31,6 +31,12 @@ format:
 <a id="item-11"></a>
 ### 2024
 
+- [Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784) [AISTATS 2024]
+  - *authors*: Minh N. Vu, Truc Nguyen, Tre' R. Jeter, My T. Thai
+  - *datasets*: IMDB review, Yelp review, Twitter-emotion, and Finance
+  - *models*: BERT, RoBERTa , distilBERT, GPT1, GPT2
+  - code and slide
+    
 - [Improving LoRA in Privacy-preserving Federated Learning](https://openreview.net/forum?id=NLPzL6HWNl) [ICLR 2024]
   - *authors*: Youbang Sun, Zitao Li, Yaliang Li, Bolin Ding .
   - *datasets*: MNLI, SST2, QNLI , QQP and GSM-8K
@@ -71,6 +77,12 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 
 <a id="item-21"></a>
 ### 2024
+
+- [FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission](https://arxiv.org/abs/2403.00881) [Arxiv 2024]
+  - *authors*: Zeling Zhang, Dongqi Cai, Yiran Zhang, Mengwei Xu, Shangguang Wang, Ao Zhou
+  - *datasets*: AdvertiseGen 
+  - *models*:  GPT2
+
 - [Privacy-Aware Semantic Cache for Large Language Models](https://arxiv.org/abs/2403.02694) [Arxiv 2024]
   - *authors*: Waris Gill, Mohamed Elidrisi, Pallavi Kalapatapu, Ali Anwar, Muhammad Ali Gulzar 
   - *datasets*: GPTCache dataset
