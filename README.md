@@ -117,9 +117,20 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
   - *datasets*: Dolly-15K.
   - *models*: Shepherd-7B.
   - [code](https://github.com/JayZhang42/FederatedGPT-Shepherd) and slide
+
+- [Asynchronous Local-SGD Training for Language Modeling](https://arxiv.org/abs/2401.09135) [ArXiv 2024]
+  - *authors*: Bo Liu, Rachita Chhaparia, Arthur Douillard, Satyen Kale, Andrei A. Rusu, Jiajun Shen, Arthur Szlam, Marc'Aurelio Ranzato.
+  - *datasets*:  C4 dataset.
+  - *models*:  150M Model
     
 <a id="item-22"></a>
 ### 2023
+
+- [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105) [ArXiv 2023]
+  - *authors*: Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Rachita Chhaparia, Yani Donchev, Adhiguna Kuncoro, Marc'Aurelio Ranzato, Arthur Szlam, Jiajun Shen.
+  - *datasets*:  C4 dataset.
+  - *models*:  150M Model
+
 - [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363) [ArXiv 2023]
   - *authors*: Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, Yuexiang Xie, Yaliang Li, Bolin Ding, Jingren Zhou.
   - *datasets*: Databricks-dolly-15k, GSM8K.
