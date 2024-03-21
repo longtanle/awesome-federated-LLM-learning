@@ -149,5 +149,14 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-3"></a>
 ## Applications
 
+- [FedPrompt: Communication-Efficient and Privacy Preserving Prompt Tuning in Federated Learning](https://arxiv.org/abs/2208.12268) [ICASSP 2023]
+  - *authors*: Haodong Zhao, Wei Du, Fangqi Li, Peixuan Li, Gongshen Liu
+    
+- [Visual Prompt Based Personalized Federated Learning](https://arxiv.org/abs/2303.08678) [TMLR 2023]
+  - *authors*: Guanghao Li, Wansen Wu, Yan Sun, Li Shen, Baoyuan Wu, Dacheng Tao
+    
+- [Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data](https://arxiv.org/abs/2301.09152) [IJCAI 2023]
+  - *authors*: Shengchao Chen, Guodong Long, Tao Shen, Jing Jiang
+    
 - [Large Language Models Empowered Autonomous Edge AI for Connected Intelligence](https://arxiv.org/abs/2307.02779) [IEEE Communication Magazine]
   - *authors*: Yifei Shen, Jiawei Shao, Xinjie Zhang, Zehong Lin, Hao Pan, Dongsheng Li, Jun Zhang, Khaled B. Letaief.
