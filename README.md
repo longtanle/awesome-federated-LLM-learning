@@ -31,6 +31,13 @@ format:
 <a id="item-11"></a>
 ### 2024
 
+
+- [Improving LoRA in Privacy-preserving Federated Learning](https://arxiv.org/abs/2403.12313) [ICLR 2024]
+  - *authors*: Youbang Sun, Zitao Li, Yaliang Li, Bolin Ding
+  - *datasets*: GLUE, GSM-8K
+  - *models*: LLaMA
+  - code and slide
+  - 
 - [Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784) [AISTATS 2024]
   - *authors*: Minh N. Vu, Truc Nguyen, Tre' R. Jeter, My T. Thai
   - *datasets*: IMDB review, Yelp review, Twitter-emotion, and Finance
@@ -78,6 +85,11 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-21"></a>
 ### 2024
 
+- [Dual-Personalizing Adapter for Federated Foundation Models](https://arxiv.org/abs/2403.19211) [Arxiv 2024]
+  - *authors*: Yiyuan Yang, Guodong Long, Tao Shen, Jing Jiang, Michael Blumenstein
+  - *datasets*: Flan  
+  - *models*:  LLaMA-7B
+  - 
 - [FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission](https://arxiv.org/abs/2403.00881) [Arxiv 2024]
   - *authors*: Zeling Zhang, Dongqi Cai, Yiran Zhang, Mengwei Xu, Shangguang Wang, Ao Zhou
   - *datasets*: AdvertiseGen 
