@@ -31,13 +31,6 @@ format:
 <a id="item-11"></a>
 ### 2024
 
-
-- [Improving LoRA in Privacy-preserving Federated Learning](https://arxiv.org/abs/2403.12313) [ICLR 2024]
-  - *authors*: Youbang Sun, Zitao Li, Yaliang Li, Bolin Ding
-  - *datasets*: GLUE, GSM-8K
-  - *models*: LLaMA
-  - code and slide
-  - 
 - [Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784) [AISTATS 2024]
   - *authors*: Minh N. Vu, Truc Nguyen, Tre' R. Jeter, My T. Thai
   - *datasets*: IMDB review, Yelp review, Twitter-emotion, and Finance
@@ -98,8 +91,13 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 - [Privacy-Aware Semantic Cache for Large Language Models](https://arxiv.org/abs/2403.02694) [Arxiv 2024]
   - *authors*: Waris Gill, Mohamed Elidrisi, Pallavi Kalapatapu, Ali Anwar, Muhammad Ali Gulzar 
   - *datasets*: GPTCache dataset
-  - *models*:  Llama 2, MPNet, Albert 
-  
+  - *models*:  Llama 2, MPNet, Albert
+ 
+- [Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784) [Arxiv 2024]
+  - *authors*: Minh N. Vu, Truc Nguyen, Tre' R. Jeter, My T. Thai.
+  - *datasets*: IMDB, Yelp
+  - *models*:  RoBERTa, DistilBERT, GPT, GPT2
+    
 - [Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources](https://arxiv.org/pdf/2402.11505.pdf) [ArXiv 2024]
   - *authors*: Jiamu Bai, Daoyuan Chen, Bingchen Qian, Liuyi Yao, Yaliang Li.
   - *datasets*:  AllenAI natural instruction dataset v2.
@@ -142,6 +140,11 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
   - *authors*: Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Rachita Chhaparia, Yani Donchev, Adhiguna Kuncoro, Marc'Aurelio Ranzato, Arthur Szlam, Jiajun Shen.
   - *datasets*:  C4 dataset.
   - *models*:  150M Model
+
+- [Federated Generative Learning with Foundation Models](https://openreview.net/forum?id=U0P622bfUN) [OpenReview 2023]
+  - *authors*: Jie Zhang, Xiao hua Qi, Shengyuan Pang, Siyuan Pan, Xiaobing Tu, Pengfei Wan, Bo Zhao.
+  - *datasets*: ImageNet and DomainNet .
+  - *models*:  
 
 - [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363) [ArXiv 2023]
   - *authors*: Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, Yuexiang Xie, Yaliang Li, Bolin Ding, Jingren Zhou.
