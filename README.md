@@ -78,6 +78,16 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-21"></a>
 ### 2024
 
+- [Personalized Wireless Federated Learning for Large Language Models](https://arxiv.org/abs/2404.13238) [Arxiv 2024]
+  - *authors*: Feibo Jiang, Li Dong, Siwei Tu, Yubo Peng, Kezhi Wang, Kun Yang, Cunhua Pan, Dusit Niyato
+  - *datasets*:  
+  - *models*:  GPT-2
+ 
+- [Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2404.06448) [Arxiv 2024]
+  - *authors*: Zihan Fang, Zheng Lin, Zhe Chen, Xianhao Chen, Yue Gao, Yuguang Fang
+  - *datasets*: 20NEWS, E2E
+  - *models*:  Bert and GPT-2
+
 - [Dual-Personalizing Adapter for Federated Foundation Models](https://arxiv.org/abs/2403.19211) [Arxiv 2024]
   - *authors*: Yiyuan Yang, Guodong Long, Tao Shen, Jing Jiang, Michael Blumenstein
   - *datasets*: Flan  
@@ -164,6 +174,11 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-3"></a>
 ## Applications
 
+- [Prompt Public Large Language Models to Synthesize Data for Private On-device Applications](https://arxiv.org/abs/2404.04360) [Arxiv 2024]
+  - *authors*: Shanshan Wu, Zheng Xu, Yanxiang Zhang, Yuanbo Zhang, Daniel Ramage
+  - *datasets*: LLM-mix-166G
+  - *models*:  
+ 
 - [FedPrompt: Communication-Efficient and Privacy Preserving Prompt Tuning in Federated Learning](https://arxiv.org/abs/2208.12268) [ICASSP 2023]
   - *authors*: Haodong Zhao, Wei Du, Fangqi Li, Peixuan Li, Gongshen Liu
     
