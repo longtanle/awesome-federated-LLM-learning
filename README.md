@@ -31,6 +31,12 @@ format:
 <a id="item-11"></a>
 ### 2024
 
+- [PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs](https://arxiv.org/abs/2406.02958) [ICML 2024]
+  - *authors*: Charlie Hou, Akshat Shrivastava, Hongyuan Zhan, Rylan Conway, Trang Le, Adithya Sagar, Giulia Fanti, Daniel Lazar
+  - *datasets*: C4
+  - *models*: DistilGPT2 
+  - code and slide
+  - 
 - [Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784) [AISTATS 2024]
   - *authors*: Minh N. Vu, Truc Nguyen, Tre' R. Jeter, My T. Thai
   - *datasets*: IMDB review, Yelp review, Twitter-emotion, and Finance
@@ -78,6 +84,21 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-21"></a>
 ### 2024
 
+- [Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs](https://arxiv.org/abs/2406.11569) [Arxiv 2024]
+  - *authors*: Haifeng Wen, Hong Xing, Osvaldo Simeone
+  - *datasets*:  
+  - *models*:  
+ 
+- [Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent](https://arxiv.org/abs/2406.11187) [Arxiv 2024]
+  - *authors*: Lin Wang, Zhichao Wang, Xiaoying Tang
+  - *datasets*:  GLUE
+  - *models*:   GPT2-small, BLOOM, RoBERTa-base, ChatGLM3-6B and LLaMA2-7B
+
+- [Thinking Forward: Memory-Efficient Federated Finetuning of Language Models](https://arxiv.org/abs/2405.15551) [Arxiv 2024]
+  - *authors*: Kunjal Panchal, Nisarg Parikh, Sunav Choudhary, Lijun Zhang, Yuriy Brun, Hui Guan
+  - *datasets*:  AG News, SST2, Yelp, SQuADv2,...
+  - *models*:   Llama2-7B
+  -     
 - [Personalized Wireless Federated Learning for Large Language Models](https://arxiv.org/abs/2404.13238) [Arxiv 2024]
   - *authors*: Feibo Jiang, Li Dong, Siwei Tu, Yubo Peng, Kezhi Wang, Kun Yang, Cunhua Pan, Dusit Niyato
   - *datasets*:  
