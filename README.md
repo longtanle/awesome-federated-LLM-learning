@@ -31,12 +31,18 @@ format:
 <a id="item-11"></a>
 ### 2024
 
+- [FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model](https://arxiv.org/abs/2406.17706) [KDD 2024]
+  - *authors*: Feijie Wu, Zitao Li, Yaliang Li, Bolin Ding, Jing Gao
+  - *datasets*: GSM-8K, HumanEvalX, dolly-15K
+  - *models*: LLaMA-2-7B
+  - [code](https://github.com/HarliWu/FedBiOT) and slide
+    
 - [PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs](https://arxiv.org/abs/2406.02958) [ICML 2024]
   - *authors*: Charlie Hou, Akshat Shrivastava, Hongyuan Zhan, Rylan Conway, Trang Le, Adithya Sagar, Giulia Fanti, Daniel Lazar
   - *datasets*: C4
   - *models*: DistilGPT2 
   - code and slide
-  - 
+    
 - [Analysis of Privacy Leakage in Federated Large Language Models](https://arxiv.org/abs/2403.04784) [AISTATS 2024]
   - *authors*: Minh N. Vu, Truc Nguyen, Tre' R. Jeter, My T. Thai
   - *datasets*: IMDB review, Yelp review, Twitter-emotion, and Finance
