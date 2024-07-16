@@ -90,6 +90,16 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-21"></a>
 ### 2024
 
+- [On the Client Preference of LLM Fine-tuning in Federated Learning](https://arxiv.org/abs/2407.03038) [Arxiv 2024]
+  - *authors*: Feijie Wu, Xiaoze Liu, Haoyu Wang, Xingchen Wang, Jing Gao
+  - *datasets*:  Summarization
+  - *models*:  LLaMA-2-7B, Alpaca-7B 
+
+- [SplitLoRA: A Split Parameter-Efficient Fine-Tuning Framework for Large Language Models](https://arxiv.org/abs/2407.00952) [Arxiv 2024]
+  - *authors*: Zheng Lin, Xuanjie Hu, Yuxin Zhang, Zhe Chen, Zihan Fang, Xianhao Chen, Ang Li, Praneeth Vepakomma, Yue Gao
+  - *datasets*:  E2E
+  - *models*:  GPT2
+
 - [Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs](https://arxiv.org/abs/2406.11569) [Arxiv 2024]
   - *authors*: Haifeng Wen, Hong Xing, Osvaldo Simeone
   - *datasets*:  
