@@ -13,6 +13,7 @@ This is a collection of research papers for Federated Learning for Large Languag
   - [2024](#item-21)
   - [2023](#item-22)
   - [2022](#item-23)
+- [Tutorials and Surveys](#item-24)
 - [Applications](#item-3)
 
 
@@ -31,6 +32,12 @@ format:
 <a id="item-11"></a>
 ### 2024
 
+- [FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations](https://arxiv.org/abs/2409.05976) [NeurIPS 2024]
+  - *authors*: Ziyao Wang, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li
+  - *datasets*: Databricks-dolly-15k, Alpaca, and Wizard dataset
+  - *models*: Llama-7B, LLaMA-2-7B
+  - [code](https://github.com/ATP-1010/FederatedLLM) and slide
+    
 - [FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model](https://arxiv.org/abs/2406.17706) [KDD 2024]
   - *authors*: Feijie Wu, Zitao Li, Yaliang Li, Bolin Ding, Jing Gao
   - *datasets*: GSM-8K, HumanEvalX, dolly-15K
@@ -90,6 +97,13 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-21"></a>
 ### 2024
 
+
+- [Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models](https://arxiv.org/abs/2409.06277) [Arxiv 2024]
+  - *authors*: Yao Shu, Wenyang Hu, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu
+  - *datasets*: Dolly-15K
+  - *models*: LLaMA-3B
+  - [code](https://github.com/allen4747/Ferret) and slide
+    
 - [On the Client Preference of LLM Fine-tuning in Federated Learning](https://arxiv.org/abs/2407.03038) [Arxiv 2024]
   - *authors*: Feijie Wu, Xiaoze Liu, Haoyu Wang, Xingchen Wang, Jing Gao
   - *datasets*:  Summarization
@@ -207,6 +221,12 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 
 <a id="item-23"></a>
 ### 2022
+
+<a id="item-24"></a>
+## Tutorials and Surveys
+
+- [Federated Large Language Models: Current Progress and Future Directions](https://arxiv.org/abs/2409.15723) [Arxiv 2024]
+  - *authors*: Yuhang Yao, Jianyi Zhang, Junda Wu, Chengkai Huang, Yu Xia, Tong Yu, Ruiyi Zhang, Sungchul Kim, Ryan Rossi, Ang Li, Lina Yao, Julian McAuley, Yiran Chen, Carlee Joe-Wong
 
 <a id="item-3"></a>
 ## Applications
