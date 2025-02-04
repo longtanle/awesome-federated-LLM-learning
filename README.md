@@ -30,8 +30,23 @@ format:
   - [code](code link) [slide](slide link) 
 ```
 <a id="item-11"></a>
+
+### 2025
+
+- [Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](https://arxiv.org/abs/2501.13904) [ICLR 2025]
+  - *authors*: Linh Tran, Wei Sun, Stacy Patterson, Ana Milanova
+  - *datasets*: Caltech101, OxfordPets, OxfordFlowers, Food101, CIFAR-100
+  - *models*:  
+  - [code](https://anonymous.4open.science/r/DP-FPL-84F8) and slide
+    
 ### 2024
 
+- [Fisher Information-based Efficient Curriculum Federated Learning with Large Language Models](https://arxiv.org/abs/2410.00131) [EMNLP 2024]
+  - *authors*: Ji Liu, Jiaxiang Ren, Ruoming Jin, Zijie Zhang, Yang Zhou, Patrick Valduriez, Dejing Dou
+  - *datasets*: QNLI, SST-2, CoLA, MRPC, RTE, BoolQ, MPQA, Subj, Trec, MR
+  - *models*:  RoBERTa LARGE and LLaMA
+  - code and slide
+    
 - [FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations](https://arxiv.org/abs/2409.05976) [NeurIPS 2024]
   - *authors*: Ziyao Wang, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang Li
   - *datasets*: Databricks-dolly-15k, Alpaca, and Wizard dataset
@@ -97,7 +112,42 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-21"></a>
 ### 2024
 
-
+- [Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models](https://arxiv.org/abs/2501.19389) [Arxiv 2025]
+  - *authors*: Wenzhi Fang, Dong-Jun Han, Liangqi Yuan, Seyyedali Hosseinalipour, Christopher G. Brinton
+  - *datasets*: QNLI, MRPC, CoLA, MNLI, RTE, SST-2, QQP
+  - *models*: RoBERTa,  LLaMA-3.2-3B
+  - code and slide
+  
+- [Photon: Federated LLM Pre-Training](https://arxiv.org/abs/2411.02908) [Arxiv 2024]
+  - *authors*: Lorenzo Sani, Alex Iacob, Zeyu Cao, Royson Lee, Bill Marino, Yan Gao, Dongqi Cai, Zexi Li, Wanru Zhao, Xinchi Qiu, Nicholas D. Lane
+  - *datasets*: C4
+  - *models*: 3B, 7B models 
+  - [code](https://anonymous.4open.science/r/systemx_llm-E74F/README.md) and slide
+    
+- [Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients](https://arxiv.org/abs/2410.22815) [Arxiv 2024]
+  - *authors*: Jabin Koo, Minwoo Jang, Jungseul Ok
+  - *datasets*: BANKING77 and 20 Newsgroup
+  - *models*: RoBERTa 
+  - code and slide
+    
+- [MIRA: A Method of Federated MultI-Task Learning for LaRge LAnguage Models](https://arxiv.org/abs/2410.15524) [Arxiv 2024]
+  - *authors*: Ahmed Elbakary, Chaouki Ben Issaid, Tamer ElBatt, Karim Seddik, Mehdi Bennis
+  - *datasets*: Dolly-15k and Natural Instruction
+  - *models*: Llama and GPT-2-large 
+  - code and slide
+    
+- [FedSpaLLM: Federated Pruning of Large Language Models](https://arxiv.org/abs/2410.14852) [Arxiv 2024]
+  - *authors*: Guangji Bai, Yijiang Li, Zilinghan Li, Liang Zhao, Kibaek Kim
+  - *datasets*: WikiText2, PTB, C4
+  - *models*: OPT-125m, OPT-1.3b, and LlaMA-2 7b 
+  - code and slide
+    
+- [Communication-Efficient and Tensorized Federated Fine-Tuning of Large Language Models](https://arxiv.org/abs/2410.13097) [Arxiv 2024]
+  - *authors*: Sajjad Ghiasvand, Yifan Yang, Zhiyu Xue, Mahnoosh Alizadeh, Zheng Zhang, Ramtin Pedarsani
+  - *datasets*: SST-2, QNLI, QQP, MNLI
+  - *models*: BERT and LLaMA 
+  - code and slide
+    
 - [Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models](https://arxiv.org/abs/2409.06277) [Arxiv 2024]
   - *authors*: Yao Shu, Wenyang Hu, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu
   - *datasets*: Dolly-15K
@@ -225,6 +275,9 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-24"></a>
 ## Tutorials and Surveys
 
+- [Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions](https://arxiv.org/abs/2501.04436) [Arxiv 2024]
+  - *authors*: Na Yan, Yang Su, Yansha Deng, Robert Schober
+  - 
 - [Federated Large Language Models: Current Progress and Future Directions](https://arxiv.org/abs/2409.15723) [Arxiv 2024]
   - *authors*: Yuhang Yao, Jianyi Zhang, Junda Wu, Chengkai Huang, Yu Xia, Tong Yu, Ruiyi Zhang, Sungchul Kim, Ryan Rossi, Ang Li, Lina Yao, Julian McAuley, Yiran Chen, Carlee Joe-Wong
 
