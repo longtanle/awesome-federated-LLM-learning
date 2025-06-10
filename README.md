@@ -33,6 +33,12 @@ format:
 
 ### 2025
 
+- [FedPref: Federated Learning Across Heterogeneous Multi-objective Preferences](https://arxiv.org/abs/2501.13604) [ACM ToMPECS]
+  - *authors*: Maria Hartmann, Grégoire Danoy, Pascal Bouvry
+  - *datasets*: Caltech101, OxfordPets, OxfordFlowers, Food101, CIFAR-100
+  - *models*:  
+  - [code](https://anonymous.4open.science/r/DP-FPL-84F8) and slide
+  - 
 - [Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](https://arxiv.org/abs/2501.13904) [ICLR 2025]
   - *authors*: Linh Tran, Wei Sun, Stacy Patterson, Ana Milanova
   - *datasets*: Caltech101, OxfordPets, OxfordFlowers, Food101, CIFAR-100
@@ -41,6 +47,18 @@ format:
     
 ### 2024
 
+- [Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources](https://arxiv.org/pdf/2402.11505.pdf) [NEURIPS 2024]
+  - *authors*: Jiamu Bai, Daoyuan Chen, Bingchen Qian, Liuyi Yao, Yaliang Li.
+  - *datasets*:  AllenAI natural instruction dataset v2.
+  - *models*: LLaMA-1.3B 
+  - [code](https://github.com/alibaba/FederatedScope/tree/FlexLoRA) and slide
+  - 
+- [FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences](https://www.usenix.org/conference/atc24/presentation/xu-mengwei) [USENIX ATC 2024]
+  - *authors*: Mengwei Xu, Dongqi Cai, Yaozong Wu, Xiang Li, and Shangguang Wang
+  - *datasets*:
+  - *models*:  
+  - code and [slide](https://www.usenix.org/conference/atc24/presentation/xu-mengwei)
+  - 
 - [Fisher Information-based Efficient Curriculum Federated Learning with Large Language Models](https://arxiv.org/abs/2410.00131) [EMNLP 2024]
   - *authors*: Ji Liu, Jiaxiang Ren, Ruoming Jin, Zijie Zhang, Yang Zhou, Patrick Valduriez, Dejing Dou
   - *datasets*: QNLI, SST-2, CoLA, MRPC, RTE, BoolQ, MPQA, Subj, Trec, MR
@@ -109,14 +127,22 @@ format:
 
 In this section, we will list high-quality FedLLM preprints that have been uploaded to open-access repositories like ArXiv.
 
-<a id="item-21"></a>
-### 2024
-
+### 2025
+<a id="item-20"></a>
+- [FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-World LoRA](https://arxiv.org/abs/2503.11880) [Arxiv 2025]
+  - *authors*: Jieming Bian, Lei Wang, Letian Zhang, Jie Xu
+  - *datasets*: Flan
+  - *models*:  LLaMA2-7B,  BLOOM-560M
+  - code and slide
+    
 - [Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models](https://arxiv.org/abs/2501.19389) [Arxiv 2025]
   - *authors*: Wenzhi Fang, Dong-Jun Han, Liangqi Yuan, Seyyedali Hosseinalipour, Christopher G. Brinton
   - *datasets*: QNLI, MRPC, CoLA, MNLI, RTE, SST-2, QQP
   - *models*: RoBERTa,  LLaMA-3.2-3B
   - code and slide
+  - 
+<a id="item-21"></a>
+### 2024
   
 - [Photon: Federated LLM Pre-Training](https://arxiv.org/abs/2411.02908) [Arxiv 2024]
   - *authors*: Lorenzo Sani, Alex Iacob, Zeyu Cao, Royson Lee, Bill Marino, Yan Gao, Dongqi Cai, Zexi Li, Wanru Zhao, Xinchi Qiu, Nicholas D. Lane
@@ -209,12 +235,6 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
   - *datasets*: IMDB, Yelp
   - *models*:  RoBERTa, DistilBERT, GPT, GPT2
     
-- [Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources](https://arxiv.org/pdf/2402.11505.pdf) [ArXiv 2024]
-  - *authors*: Jiamu Bai, Daoyuan Chen, Bingchen Qian, Liuyi Yao, Yaliang Li.
-  - *datasets*:  AllenAI natural instruction dataset v2.
-  - *models*: LLaMA-1.3B 
-  - [code](https://github.com/alibaba/FederatedScope/tree/FlexLoRA) and slide
-    
 - [OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning](https://arxiv.org/abs/2402.06954) [ArXiv 2024]
   - *authors*: Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du, Yanfeng Wang, Siheng Chen.
   - *datasets*: Alpaca, Alpaca-GPT4, FinGPT, MedAlpaca, CodeMathInstruct, UltraFeedback, HH-RLHF 
@@ -275,6 +295,9 @@ In this section, we will list high-quality FedLLM preprints that have been uploa
 <a id="item-24"></a>
 ## Tutorials and Surveys
 
+- [A Survey on Federated Fine-tuning of Large Language Models](https://arxiv.org/abs/2503.12016) [Arxiv 2025]
+  - *authors*: Yebo Wu, Chunlin Tian, Jingguang Li, He Sun, Kahou Tam, Li Li, Chengzhong Xu
+  - 
 - [Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions](https://arxiv.org/abs/2501.04436) [Arxiv 2024]
   - *authors*: Na Yan, Yang Su, Yansha Deng, Robert Schober
   - 
