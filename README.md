@@ -35,12 +35,6 @@ format:
 
 ### 2025
 
-- [FedPref: Federated Learning Across Heterogeneous Multi-objective Preferences](https://arxiv.org/abs/2501.13604) [ACM ToMPECS]
-  - *authors*: Maria Hartmann, Grégoire Danoy, Pascal Bouvry
-  - *datasets*: Caltech101, OxfordPets, OxfordFlowers, Food101, CIFAR-100
-  - *models*:  
-  - [code](https://anonymous.4open.science/r/DP-FPL-84F8) and slide
-  - 
 - [Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](https://arxiv.org/abs/2501.13904) [ICLR 2025]
   - *authors*: Linh Tran, Wei Sun, Stacy Patterson, Ana Milanova
   - *datasets*: Caltech101, OxfordPets, OxfordFlowers, Food101, CIFAR-100
