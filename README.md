@@ -35,6 +35,12 @@ format:
 
 ### 2025
 
+- [Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models](https://openreview.net/forum?id=sYNWqQYJhz) [ICLR 2025]
+  - *authors*: Rui Ye, Jingyi Chai, Xiangrui Liu, Yaodong Yang, Yanfeng Wang, Siheng Chen 
+  - *datasets*: AdvBench, MT-Bench
+  - *models*: Mistral-7B-Instruct, Llama2-7B
+  - [code](https://github.com/19dx/FedLLM-Attack) and slide
+  - 
 - [Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](https://arxiv.org/abs/2501.13904) [ICLR 2025]
   - *authors*: Linh Tran, Wei Sun, Stacy Patterson, Ana Milanova
   - *datasets*: Caltech101, OxfordPets, OxfordFlowers, Food101, CIFAR-100
